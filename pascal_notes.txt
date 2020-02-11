@@ -1,0 +1,26 @@
+begin  == {                   (java)
+end    == }                   (java)
+;      == ;                   (java)
+
+constructor  == init          (python)
+uses   == import              (python)
+try    == try                 (python)
+except == except              (python)
+writeln() == print()          (python)
+readln() == input()           (python)
+"for i: 1 to 10 do" == "for for x in range(10):"(python)
+ :     == instance of a variable/class (syntactic sugar)
+ =     == = (for type declaration)
+:=     == = (for assignment)
+
+end.   == end of program
+{}     == comments
+
+"high-level procedural programming language"
+must declare variables above call (like both python & java)
+main begin & end block is last
+uses directives as settings (like assembly)
+procedures in pascal don't have outputs
+functions do have outputs and have to be part of their declarations
+class methods and have to be initialized and declared separately
+"createstr :=  var" is how to return from createstr
